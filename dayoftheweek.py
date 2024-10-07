@@ -19,3 +19,10 @@ elif dayoftheweek_number==7
 
 else:
    print("Please enter a valid number between 1 and 7.")
+
+
+
+
+
+
+    
